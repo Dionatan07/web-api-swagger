@@ -24,6 +24,6 @@ Web API Rest Documentado em Swagger &#128172; SPRING
 
 ![image](https://user-images.githubusercontent.com/103437425/201757517-dd0f454d-d1c1-488f-9758-4f4377f5f50c.png)
 
-----------------
+------------------
 
 Disponibilizado por [dionatan07](https://www.linkedin.com/in/dionatandeandrade/ "LinkedIn").
